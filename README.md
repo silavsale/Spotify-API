@@ -4,8 +4,8 @@ A simple React starter that's perfect for messing around. Comes with Babel, Emot
 
 # Use
 
-- `git clone https://github.com/DZuz14/react-hacker.git`
-- `cd react-hacker`
+- `git clone https://github.com/silavsale/Spotify-API.git`
+- `cd Spotify-API`
 - `npm i`
 - `npm start`
 
